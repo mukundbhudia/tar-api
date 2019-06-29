@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mukundbhudia/tar-api/issues"
   },
-  "homepage": "https://github.com/mukundbhudia/tar-api#readme"
+  "homepage": "https://github.com/mukundbhudia/tar-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
