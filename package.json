@@ -1,0 +1,19 @@
+{
+  "name": "tar-api",
+  "version": "1.0.0",
+  "description": "TripAdvisor reviews API. Give me a review page and the API will give you a list of reviews",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mukundbhudia/tar-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mukundbhudia/tar-api/issues"
+  },
+  "homepage": "https://github.com/mukundbhudia/tar-api#readme"
+}
